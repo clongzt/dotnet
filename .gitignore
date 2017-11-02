@@ -1,0 +1,4 @@
+bin/ 过滤所有bin文件夹
+obj/ 过滤所有obj文件夹
+ValorNAV_deploy/ 过滤所有ValorNAV_deploy文件夹
+*.dll 过滤所有dll文件，这个最好不要使用dll，因为项目中像lib文件夹我们会放一些dll包。

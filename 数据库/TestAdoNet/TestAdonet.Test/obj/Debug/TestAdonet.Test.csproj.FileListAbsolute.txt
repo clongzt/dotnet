@@ -1,0 +1,10 @@
+D:\Learn\DotNet\dotnet\数据库\TestAdoNet\TestAdonet.Test\bin\Debug\Config\ConnectionStrings.config
+D:\Learn\DotNet\dotnet\数据库\TestAdoNet\TestAdonet.Test\bin\Debug\TestAdonet.Test.dll
+D:\Learn\DotNet\dotnet\数据库\TestAdoNet\TestAdonet.Test\bin\Debug\TestAdonet.Test.pdb
+D:\Learn\DotNet\dotnet\数据库\TestAdoNet\TestAdonet.Test\obj\Debug\TestAdonet.Test.csprojResolveAssemblyReference.cache
+D:\Learn\DotNet\dotnet\数据库\TestAdoNet\TestAdonet.Test\obj\Debug\TestAdonet.Test.dll
+D:\Learn\DotNet\dotnet\数据库\TestAdoNet\TestAdonet.Test\obj\Debug\TestAdonet.Test.pdb
+D:\Learn\DotNet\dotnet\数据库\TestAdoNet\TestAdonet.Test\bin\Debug\TestAdoNet.exe
+D:\Learn\DotNet\dotnet\数据库\TestAdoNet\TestAdonet.Test\bin\Debug\Oracle.DataAccess.dll
+D:\Learn\DotNet\dotnet\数据库\TestAdoNet\TestAdonet.Test\bin\Debug\TestAdoNet.pdb
+D:\Learn\DotNet\dotnet\数据库\TestAdoNet\TestAdonet.Test\bin\Debug\TestAdonet.Test.dll.config

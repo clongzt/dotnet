@@ -1,0 +1,6 @@
+2018-07-17 17:31:59,039 [5] ERROR MemCardsController - this is a error
+System.ArgumentOutOfRangeException: startIndex 不能大于字符串长度。
+参数名: startIndex
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 WebApplication6.Controllers.MemCardsController.Get(Int32 id) 位置 e:\Cl\Study\DotNet\Demo\dotnet\基础部分\WebApplication6\WebApplication6\Controllers\MemCardsController .cs:行号 41
+2018-07-17 17:31:59,060 [5] INFO  MemCardsController - this is a jake
